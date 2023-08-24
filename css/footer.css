@@ -1,0 +1,16 @@
+.footer{
+width: calc(100%-64px);
+padding: 32px;
+gap: 10px;
+background-color: #fff;
+}
+
+.footer__rodape{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+

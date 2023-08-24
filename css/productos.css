@@ -1,0 +1,93 @@
+.productos{
+    width: 100%;    
+    height: auto;
+    padding: 16px 0px;
+    gap: 16px;
+}
+
+.seccion-product{
+    width: calc(100%-32px);
+    height: 26px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;    
+    padding: 8px 16px 16px 16px;
+}
+
+.seccion-product h2{
+    font-size: 1.2rem;
+    
+}
+
+.seccion-product p{
+    font-size: 1rem;
+    color: #2A7AE4; 
+}
+
+.cards{
+    width: calc(100%-16px);
+    height: auto;
+    padding: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.card{
+    width: 156px;
+    height: 248px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    font-size: .85rem;
+}
+
+.card img{
+    width: 156px;
+    height: 200px;    
+}
+
+.precio{
+    color: #464646;
+    font-weight: bold;
+}
+
+.card a{
+    color: #2A7AE4;
+    font-weight: bold;
+}
+
+.card:nth-child(n + 5) {
+    display: none;
+}
+
+@media screen and (min-width:768px){
+
+    .seccion-product{
+        width: calc(100%-32px);
+    }
+
+}
+
+
+
+@media screen and (min-width:1440px){
+
+    .card:nth-child(n + 5) {
+        display: block;
+    }
+
+    .seccion-product{
+        width: calc(100%-64px);    
+        padding: 8px 32px 16px 32px;    
+    }
+
+    .card{
+        width: 176px;
+        height: 250px;        
+    }
+
+}

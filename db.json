@@ -1,0 +1,148 @@
+{
+  "productos": [
+    {
+      "imgUrl": "./assets/productos/Star/img1.png",
+      "categorias": "Star Wars",
+      "nombre": "Producto XYZ",
+      "precio": "60,00",
+      "descripcion": "eee",
+      "id": 1
+    },
+    {
+      "imgUrl": "./assets/productos/Star/img2.png",
+      "categorias": "Star Wars",
+      "nombre": "Producto XYZ",
+      "precio": "70,00",
+      "descripcion": "x",
+      "id": 2
+    },
+    {
+      "imgUrl": "./assets/productos/Star/img3.png",
+      "categorias": "Star Wars",
+      "nombre": "Producto XYZ",
+      "precio": "80,00",
+      "descripcion": "x",
+      "id": 3
+    },    {
+      "imgUrl": "./assets/productos/Star/img4.png",
+      "categorias": "Star Wars",
+      "nombre": "Producto XYZ",
+      "precio": "90,00",
+      "descripcion": "x",
+      "id": 4
+    },
+    {
+      "imgUrl": "./assets/productos/Star/img5.png",
+      "categorias": "Star Wars",
+      "nombre": "Producto XYZ",
+      "precio": "40,00",
+      "descripcion": "x",
+      "id": 5
+    },
+    {
+      "imgUrl": "./assets/productos/Star/img6.png",
+      "categorias": "Star Wars",
+      "nombre": "Producto XYZ",
+      "precio": "30,00",
+      "descripcion": "x",
+      "id": 6
+    },
+    {
+      "imgUrl": "./assets/productos/consolas/1.png",
+      "categorias": "Consolas",
+      "nombre": "Producto XYZ",
+      "precio": "10,00",
+      "descripcion": "x",
+      "id": 7
+    },
+    {
+      "imgUrl": "./assets/productos/consolas/2.png",
+      "categorias": "Consolas",
+      "nombre": "Producto XYZ",
+      "precio": "100,00",
+      "descripcion": "x",
+      "id": 8
+    },
+    {
+      "imgUrl": "./assets/productos/consolas/3.png",
+      "categorias": "Consolas",
+      "nombre": "Producto XYZ",
+      "precio": "50,00",
+      "descripcion": "x",
+      "id": 9
+    },
+    {
+      "imgUrl": "./assets/productos/consolas/4.png",
+      "categorias": "Consolas",
+      "nombre": "Producto XYZ",
+      "precio": "60,00",
+      "descripcion": "x",
+      "id": 10
+    },
+    {
+      "imgUrl": "./assets/productos/consolas/5.png",
+      "categorias": "Consolas",
+      "nombre": "Producto XYZ",
+      "precio": "30,00",
+      "descripcion": "x",
+      "id": 11
+    },
+    {
+      "imgUrl": "./assets/productos/consolas/6.png",
+      "categorias": "Consolas",
+      "nombre": "Producto XYZ",
+      "precio": "80,00",
+      "descripcion": "x",
+      "id": 12
+    },
+    {
+      "imgUrl": "./assets/productos/diversos/d1.PNG",
+      "categorias": "Diversos",
+      "nombre": "Producto XYZ",
+      "precio": "100,00",
+      "descripcion": "x",
+      "id": 13
+    },
+    {
+      "imgUrl": "./assets/productos/diversos/d2.PNG",
+      "categorias": "Diversos",
+      "nombre": "Producto XYZ",
+      "precio": "20,00",
+      "descripcion": "x",
+      "id": 14
+    },
+    {
+      "imgUrl": "./assets/productos/diversos/d3.PNG",
+      "categorias": "Diversos",
+      "nombre": "Producto XYZ",
+      "precio": "60,00",
+      "descripcion": "x",
+      "id": 15
+    },
+    {
+      "imgUrl": "./assets/productos/diversos/d4.PNG",
+      "categorias": "Diversos",
+      "nombre": "Producto XYZ",
+      "precio": "10,00",
+      "descripcion": "x",
+      "id": 16
+    },
+    {
+      "imgUrl": "./assets/productos/diversos/d5.PNG",
+      "categorias": "Diversos",
+      "nombre": "Producto XYZ",
+      "precio": "60,00",
+      "descripcion": "x",
+      "id": 17
+    },
+    {
+      "imgUrl": "./assets/productos/diversos/d6.PNG",
+      "categorias": "Diversos",
+      "nombre": "Producto XYZ",
+      "precio": "50,00",
+      "descripcion": "x",
+      "id": 18
+    }
+    
+  ]
+}

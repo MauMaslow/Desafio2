@@ -1,12 +1,12 @@
 //comnucarnos con el servidor metodo GET
 const listaproductos = () =>
-    fetch ("http://localhost:3000/productos").then(respuesta => 
+    fetch ("https://maumaslow.github.io/Desafio2/db.json/productos").then(respuesta => 
     respuesta.json());
 
 //crearproducto
 
 const crearproducto = (imgUrl,categorias,nombre,precio,descripcion) => {
-    return fetch ("http://localhost:3000/productos",
+    return fetch ("https://maumaslow.github.io/Desafio2/db.json/productos",
         //objeto {}
         {
         method:"POST",
@@ -19,7 +19,7 @@ const crearproducto = (imgUrl,categorias,nombre,precio,descripcion) => {
 };
 
 const eliminarproducto = (id) =>{    
-    return fetch (`http://localhost:3000/productos/${id}`,{
+    return fetch (`https://maumaslow.github.io/Desafio2/db.json/productos/${id}`,{
     method: "DELETE"
     });
 };
